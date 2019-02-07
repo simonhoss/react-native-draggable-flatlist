@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/computerjazz/react-native-draggable-flatlist/issues"
   },
-  "homepage": "https://github.com/computerjazz/react-native-draggable-flatlist#readme"
+  "homepage": "https://github.com/computerjazz/react-native-draggable-flatlist#readme",
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-native": "^0.58.4"
+  }
 }
